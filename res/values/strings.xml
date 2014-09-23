@@ -4,6 +4,10 @@
     <string name="hello">Joshua said:</string>
     <string name="app_name">LonelyTwitter</string>
     <string name="save">Save</string>
-    <string name="clear">Clear</string>
-    
+    <string name="clear">Check History</string>
+    <string name="title_activity_tweet_number">TweetNumber</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_this">This</string>
+
 </resources>
